@@ -6,6 +6,7 @@ using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
 
+
 namespace Billing.DAL
 {
     public partial class AccountingDA
